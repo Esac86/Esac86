@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3a8a,50:1976d2,100:0ea5e9&height=200&section=header&text=Edwin%20Acevedo&fontSize=46&fontColor=ffffff&fontAlignY=38&desc=Full-stack%20engineer%20·%20Guatemala&descSize=18&descAlignY=62&animation=fadeIn" alt="banner" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3a8a,50:1976d2,100:0ea5e9&height=200&section=header&text=Edwin%20Acevedo&fontSize=46&fontColor=ffffff&fontAlignY=38&desc=Full-stack%20engineer%20·%20Colombia&descSize=18&descAlignY=62&animation=fadeIn" alt="banner" width="100%" />
 
 </div>
 
@@ -80,19 +80,6 @@ SaaS para clínicas y hospitales. **21 módulos** clínicos, administrativos y f
 
 <br />
 
-## Stats
-
 <div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Esac86&hide_title=true&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&line_height=22&theme=transparent&hide_border=true&icon_color=1976D2&text_color=24292f&title_color=1976D2" alt="stats" height="160" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Esac86&hide_title=true&layout=compact&theme=transparent&hide_border=true&langs_count=6&text_color=24292f&title_color=1976D2" alt="top langs" height="160" />
-
-</div>
-
-<br />
-
-<div align="center">
-<sub>·</sub>
-<br />
 <sub><a href="mailto:esacevedo86@gmail.com">esacevedo86@gmail.com</a></sub>
 </div>
